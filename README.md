@@ -28,7 +28,7 @@
 - **Frontend:** React.js, Bootstrap, HTML, CSS  
 - **Backend:** Node.js, Express.js, RESTful APIs  
 - **Databases:** MongoDB, MySQL, Mongoose  
-- **Tools & Platforms:** Git, GitHub, Postman  
+- **Tools & Platforms:** Git, GitHub  
 
 🚀 Always eager to build innovative projects and learn something new every day!  
 
